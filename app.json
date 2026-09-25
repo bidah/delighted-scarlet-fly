@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "delighted-scarlet-fly",
+    "slug": "delighted-scarlet-fly",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "ios": { "bundleIdentifier": "computer.inti.delightedscarletfly" },
+    "scheme": "delightedscarletfly"
+  }
+}
